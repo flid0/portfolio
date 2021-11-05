@@ -11,6 +11,11 @@ h1, h2, p {
   color: #00dd00;
 }
 
+h2, p {
+  position: absolute;
+  top: 30%;
+}
+
 h1 {
   position: absolute;
   top: 10%;
