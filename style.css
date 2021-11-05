@@ -6,7 +6,7 @@ h1 {
   font-family: 'Courier New', monospace;
   color: #00ff00;
   position: absolute;
-  top: 20%;
+  top: 10%;
   left: 50%;
   -moz-transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
