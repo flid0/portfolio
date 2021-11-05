@@ -9,7 +9,7 @@ s {
 h1, h2, p {
   font-family: 'Courier New', monospace;
   color: #00dd00;
-  text-align: center;
+  left: 50;
 }
 
 h2 {
