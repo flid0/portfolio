@@ -15,12 +15,13 @@ h1, h2, p {
 h2 {
   position: absolute;
   top: 20%;
+  left: 50%;
 }
 
 p {
   position: absolute;
   top: 30%;
-  left: 50%;
+  left: 75%;
 }
 
 h1 {
