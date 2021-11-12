@@ -18,6 +18,7 @@ h2 {
 p {
   position: absolute;
   top: 40%;
+  left: 50%;
   text-align: center;
 }
 
