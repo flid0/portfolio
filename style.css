@@ -11,6 +11,7 @@ h1, h2, p {
 h2 {
   position: absolute;
   top: 20%;
+  text-align: center;
   /*left: 20%;*/
 }
 
