@@ -1,10 +1,6 @@
 * {
   background-color: #191923;
 }
-/*
-s {
-
-}*/
 
 h1, h2, p {
   font-family: 'Courier New', monospace;
@@ -15,7 +11,7 @@ h1, h2, p {
 h2 {
   position: absolute;
   top: 20%;
-  left: 50%;
+  left: 30%;
 }
 
 p {
