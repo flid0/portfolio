@@ -11,7 +11,7 @@ h1, h2, p {
 h2 {
   position: absolute;
   top: 20%;
-  left: 20%;
+  /*left: 20%;*/
 }
 
 p {
