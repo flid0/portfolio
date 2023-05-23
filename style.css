@@ -6,28 +6,3 @@ h1, h2, p {
   font-family: 'Courier New', monospace;
   color: #00dd00;
 }
-
-
-h2 {
-  position: absolute;
-  top: 20%;
-  text-align: center;
-  /*left: 20%;*/
-}
-
-p {
-  /*position: absolute;*/
-  top: 40%;
-  left: 50%;
-  /*text-align: center;*/
-}
-
-/* h1 {
-  position: absolute;
-  top: 10%;
-  left: 50%;
-  -moz-transform: translateX(-50%) translateY(-50%);
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-} */
-
